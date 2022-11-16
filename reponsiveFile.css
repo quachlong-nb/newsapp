@@ -1,0 +1,15 @@
+@media only screen and (min-width: 600px) {
+    /* For tablets: */
+    .tile { font-size: 16px !important;}
+    .Type_Title { font-size: 20px !important;}
+    .Post_Title1 { font-size: 16px !important;}
+    .Big_Title { font-size: 24px !important;}
+    .Description { font-size: 12px !important;}
+    .Detail { font-size: 14px !important;}
+    .Post_Title2 { font-size: 14px !important;}
+    .Post_Title3 { font-size: 24px !important;}
+    .Big_Heading { font-size: 32px !important;}
+    .Picture_Detail { font-size: 12px !important;}
+    .content { font-size: 16px !important;}
+    .hightlight_detail { font-size: 14px !important;}
+}
